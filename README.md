@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabielal&label=Profile%20views&color=0e75b6&style=flat" alt="nabielal" /> </p>
 
-- 🌱 I’m currently learning **Github**
+- 🌱 I’m currently learning **Python, Java, Golang, and Artificial Intelligence**
 
-- 💬 Ask me about **Github**
+- 💬 Ask me about **IT**
 
 - 📫 How to reach me **ghaziel10@gmail.com**
 
-- ⚡ Fun fact **I think i am sad**
+- ⚡ Fun fact **I am a hardworking, happy, and want to learn person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
